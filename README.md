@@ -71,8 +71,7 @@ ng serve
 
 ## Auteur
 
-[Votre Nom]
-[Votre Email]
+
 
 ## Date
 
