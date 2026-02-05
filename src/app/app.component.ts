@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']  // Changed to styleUrls (plural) and array
 })
 export class AppComponent {
-  title = 'your-app';
+  title = 'AngularModularProject';
 }
